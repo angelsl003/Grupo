@@ -1,6 +1,6 @@
 # Grupo
 ---
-# DEC2BIN.PY
+## DEC2BIN.PY
 
 En este programa se pide un **número decimal** para transformarlo a un **número binario**
 
@@ -12,7 +12,7 @@ El programa sigue estos pasos:
 
 ---
 
-#BIN2HEX.PY
+## BIN2HEX.PY
 
 Este programa concvierte un **número binario** a un **número hexadecimal**, siguiendo estos pasos:
 
@@ -22,7 +22,7 @@ Este programa concvierte un **número binario** a un **número hexadecimal**, si
 
 ---
 
-#BINTODEC.PY
+## BINTODEC.PY
 
 Este programa hace lo contrario a `dectobin.py`, o sea, pasa un **número binario** a un **número decimal** siguiendo esta metodología:
 
